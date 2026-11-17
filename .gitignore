@@ -1,0 +1,48 @@
+# Données volumineuses / sensibles - ne jamais versionner
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/README.md
+
+# Modèles entraînés (trop lourds pour git)
+models/*
+!models/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+.Python
+build/
+dist/
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Fichiers binaires générés
+*.pkl
+*.joblib
+*.parquet
+*.h5
+
+# MLflow
+mlruns/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Variables d'environnement
+.env
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/

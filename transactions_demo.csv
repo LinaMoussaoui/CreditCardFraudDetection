@@ -1,0 +1,6 @@
+montant,type_transaction,heure,international,nouveau_beneficiaire
+125.00,paiement_carte,14,false,false
+58.90,achat_en_ligne,19,false,true
+2400.00,virement,2,true,true
+35.00,retrait_especes,3,false,false
+820.00,virement,11,false,true
