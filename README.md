@@ -5,21 +5,9 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.25-red.svg)](https://streamlit.io/)
 [![Sujet](https://img.shields.io/badge/Sujet-IA--DS--2026--01-green.svg)]()
 
-> Projet de stage d'été 2026 — Apprentissage supervisé sur données tabulaires
+> Projet 2026 — Apprentissage supervisé sur données tabulaires
 > déséquilibrées, avec optimisation du seuil de décision par une fonction de
 > coût métier.
-
-## Contexte
-
-Projet réalisé dans le cadre du stage d'été 2026 (sujet **IA-DS-2026-01**), en
-4e année Ingénierie Informatique et Réseaux — option IA & Data Science —
-**EMSI Casablanca**, sous l'encadrement du **Pr. Hamza Abouabid**.
-
-Il fait suite à un projet de module "Exploration de données" réalisé plus tôt
-dans le cursus, entièrement refactorisé et étendu ici pour répondre au cahier
-des charges du stage : découpage temporel, traitement rigoureux du
-déséquilibre, seuil de décision optimisé par une matrice de coûts, et
-démonstration interactive.
 
 ## Structure du projet
 
@@ -163,9 +151,8 @@ est 0,5 ; il ne s’agit pas d’un seuil optimal certifié. Tout réglage devra
 
 ## Auteurs
 
-- **MOUSSAOUI Lina** — EMSI, 4e année Ingénierie
-  Informatique et Réseaux, option IA & Data Science
-- Encadrant de stage : **Pr. Hamza Abouabid**
+- **MOUSSAOUI Lina**
+- Encadrant: **Pr. Hamza Abouabid**
 - Année : 2025/2026
 
 ## Références
